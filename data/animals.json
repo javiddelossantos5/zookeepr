@@ -207,6 +207,33 @@
         "hungry"
       ],
       "id": "21"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "22"
+    },
+    {
+      "name": "Harambe",
+      "species": "Ape",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "23"
+    },
+    {
+      "name": "Harambe",
+      "species": "Ape",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "24"
     }
   ]
 }
