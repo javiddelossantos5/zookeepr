@@ -234,6 +234,34 @@
         "hungry"
       ],
       "id": "24"
+    },
+    {
+      "name": "Harambe",
+      "species": "Ape",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "25"
+    },
+    {
+      "name": "Cute Ape",
+      "species": "Harambe",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "26"
+    },
+    {
+      "name": "Sierra",
+      "species": "Bunny",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "27"
     }
   ]
 }
